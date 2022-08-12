@@ -1,0 +1,25 @@
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tugbe\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tugbe\source\repos\0-9 algoritma\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache
